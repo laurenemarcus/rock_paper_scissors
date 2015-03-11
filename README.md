@@ -1,20 +1,6 @@
-¡¡¡Rock Paper Scissors, the epic game of the ages of all time!!!
- (Pardon the flip tone. This is our first week of class.)
-
-This file requires Ruby. We're on 2.1.2, but I'm not sure that's required.
-This file also requires Sinatra. Please run the Bundler.
-  Once you've got those ducks in a row, run Ruby app.rb
-
-For these details/reasons and more, we recommend you simply...
-  CLONE This Repository. (please read out loud to "Wheel of Fortune" cadence)
-
-authors: Lauren Marcus & Benjamin Herson
-
-Thanks for playing.
-
 INTRODUCTION
 ------------
-The Coin Combinations App allows a user to enter an amount of cents and will show the smallest number of quarters, nickels, dimes and pennies to make change.
+The Rock Paper Scissors App allows two players to compete.
 
 This app demonstrates usage of Ruby, BDD, and RSpec, and Sinatra.
 
